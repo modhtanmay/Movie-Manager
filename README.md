@@ -1,5 +1,5 @@
 # Movie-Manager
-Movie Manager uses MySql Connection. There are various operations present such as Add Movie,Delete Movie,Update Movie,Get Movie Detail.
+Movie Manager uses MySql Connection. There are various operations present such as Add Movie,Delete Movie,Update Movie,Get Movie Detail. This is just Backend Structure of future Movie-Manager Web Application.
 
 # Setup Required
 1. JDK (any latest versions)
