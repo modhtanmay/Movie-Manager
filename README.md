@@ -11,7 +11,7 @@ Movie Manager uses MySql Connection. There are various operations present such a
 # How to run
 1. Install above all Setups
 2. Run the project as java Application
-3. In Eclipse Terminal Results would be obtained
+3. In Eclipse Terminal Results would be obtained.
 
 
 # Connect MySql Workbench
