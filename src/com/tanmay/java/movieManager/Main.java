@@ -13,6 +13,7 @@ public class Main {
 		int choice = 0;
 		System.out.println("Welcome to Movie Handler");
 		System.out.println("Enter your choice");
+		// while loops
 		while(choice!=4)
 		{
 			System.out.println("1.Add Movie");
